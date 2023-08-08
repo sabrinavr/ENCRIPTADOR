@@ -35,7 +35,7 @@ main{
 
 .mensaje{
     background: white;
-    background-image: url(/Users/Usuario.DD3C4B06/Desktop/PROGRAMACION/OracleONE/ENCRIPTADOR/Muñeco.png);
+    background-image: url(./Muñeco.png);
     background-repeat: no-repeat;
     border: none;
     border-radius: 24px;
@@ -43,7 +43,7 @@ main{
     margin-left: 98px;
     margin-top: 10px;
     padding-left: 20px;
-    position: fixed;
+    position:fixed;
 }
 
 .mensaje:focus{
